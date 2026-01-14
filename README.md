@@ -3,6 +3,8 @@
 ## 1. Project Overview
 This tool automates the extraction of incoming emails from a Gmail inbox and logs them into a Google Sheet. It uses OAuth 2.0 for secure authentication and handles duplicate prevention by tracking the "Unread" status of emails.
 
+## Video Explaination & Screenshots :- [Link](https://drive.google.com/drive/folders/1Cl75ZbXR6OEqiBdryJHjo7Qpsw8FFrpY?usp=sharing)
+
 ## 2. Setup Instructions
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
